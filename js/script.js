@@ -52,7 +52,7 @@ function shwodataobj(){
     <td>${datasale[i].F_data}</td>
     <td>${datasale[i].Nemiro_data}</td>
     <td><a onclick="veiw_data(${i})" class="btn btn-sm btn-primary" >view</a></td>
-    <td><a onclick="deleItem(${i})" class="btn btn-sm btn-primary" >Detail</a></td>
+   
 </tr>
 `
 y+=1;
